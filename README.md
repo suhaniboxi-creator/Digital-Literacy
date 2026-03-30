@@ -42,7 +42,7 @@ Created professional profiles on platforms like:
 
 ---
 
-### 🔹 Task 3 – Platforms
+###  Task 3 – Platforms
 - Completed a beginner-level coding challenge  
 - Created an interactive Google Form quiz  
 
