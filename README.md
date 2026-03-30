@@ -1,12 +1,12 @@
 # Digital-Literacy
 
-# 📘 Digital Literacy Portfolio
+# Digital Literacy Portfolio
 
 A comprehensive digital literacy project covering infographic design, professional profiles, coding platforms, email etiquette, and cybercrime awareness.
 
 ---
 
-## 👩‍🎓 Student Details
+## Student Details
 - **Name:** Suhani Boxi  
 - **Registration Number:** 25BAI10011  
 - **Branch:** B.Tech CSE (AI & ML)  
@@ -14,7 +14,7 @@ A comprehensive digital literacy project covering infographic design, profession
 
 ---
 
-## 📌 Project Overview
+## Project Overview
 This project was developed as part of the **CSE0001 Digital Literacy course**.  
 It focuses on building essential digital skills such as:
 - Online safety and cyber awareness  
@@ -25,20 +25,20 @@ The project highlights the importance of responsible and thoughtful use of techn
 
 ---
 
-## 📂 Tasks Summary
+## Tasks Summary
 
-### 🔹 Task 1 – Infographic
+### Task 1 – Infographic
 Designed a digital literacy infographic using Canva to visually represent key concepts.  
-📁 `task-1-presentation`
+`task-1-presentation`
 
 ---
 
-### 🔹 Task 2 – Digital Portfolio
+### Task 2 – Digital Portfolio
 Created professional profiles on platforms like:
 - GitHub  
 - LinkedIn  
 
-📁 `task-2-portfolio`
+`task-2-portfolio`
 
 ---
 
@@ -46,29 +46,30 @@ Created professional profiles on platforms like:
 - Completed a beginner-level coding challenge  
 - Created an interactive Google Form quiz  
 
-📁 `task-3-platforms`  
+`Task-3-platforms`  
 
-🔗 [Google Form Link](https://docs.google.com/forms/d/e/1FAIpQLScP3D5EIrh4Ui1x4zlRpZH164t4TDp4NYW47W6cN2ABiqE_GQ/viewform?usp=sharing&ouid=104996322385823656151)
+Google Form Link :https://forms.gle/pru7DWxeGAY9AcZ88
+Google Response Sheet:https://docs.google.com/spreadsheets/d/1jLAsFkIQU_hnLQh4Q9ISrr9Fh9TZvBjDzNssQD8MbfE/edit?usp=sharing
 
 ---
 
-### 🔹 Task 4 – Email Etiquette
+### Task 4 – Email Etiquette
 - Drafted professional emails  
 - Created guidelines for effective digital communication  
 
-📁 `task-4-email-etiquette`
+`task-4-email-etiquette`
 
 ---
 
-### 🔹 Task 5 – Cybercrime Awareness
+### Task 5 – Cybercrime Awareness
 - Developed a case study on cybercrime  
 - Created a prevention checklist for online safety  
 
-📁 `task-5-cybercrimes`
+`task-5-cybercrimes`
 
 ---
 
-## 🎯 Key Learnings
+## Key Learnings
 - Importance of **digital literacy beyond basic usage**  
 - Need for **ethical and responsible online behavior**  
 - Development of **professional communication skills**  
