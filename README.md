@@ -48,8 +48,8 @@ Created professional profiles on platforms like:
 
 `Task-3-platforms`  
 
-Google Form Link :https://forms.gle/pru7DWxeGAY9AcZ88
-Google Response Sheet:https://docs.google.com/spreadsheets/d/1jLAsFkIQU_hnLQh4Q9ISrr9Fh9TZvBjDzNssQD8MbfE/edit?usp=sharing
+- Google Form Link :https://forms.gle/pru7DWxeGAY9AcZ88
+- Google Response Sheet:https://docs.google.com/spreadsheets/d/1jLAsFkIQU_hnLQh4Q9ISrr9Fh9TZvBjDzNssQD8MbfE/edit?usp=sharing
 
 ---
 
